@@ -1,0 +1,8 @@
+/* Variáveis */
+:root{
+    --h1-cor: blue;
+}
+
+h1{
+    color: var(--h1-cor);
+}

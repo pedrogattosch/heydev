@@ -1,0 +1,5 @@
+/* Position */
+div.static{
+    position: static;
+    border: 3px solid #000;
+}

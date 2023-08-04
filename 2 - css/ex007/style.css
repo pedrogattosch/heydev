@@ -1,0 +1,20 @@
+/* Seletores */
+.souClass{
+    color: #000;
+}
+
+#souId{
+    color: #fff;
+}
+
+div.heydev{
+    background-color: #0000ff;
+}
+
+div + p{
+    color: red;
+}
+
+div > p{
+    color: green;
+}

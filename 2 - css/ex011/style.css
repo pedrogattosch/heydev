@@ -1,0 +1,11 @@
+/* Flexbox */
+.elementoPai{
+    display: flex;
+    justify-content: flex-start; /* flex-start flex-end flex-center space-between space-around space-evenly */
+    align-items: flex-start; /* flex-start flex-end stretch center baseline */
+}
+
+/*
+justify-content --> eixo horizontal
+aling-items --> eixo vertical
+*/

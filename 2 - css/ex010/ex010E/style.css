@@ -1,0 +1,6 @@
+/* Position */
+div.sticky{
+  position: sticky;
+  top: 0;
+  background-color: #add8e6;
+}

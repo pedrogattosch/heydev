@@ -1,0 +1,13 @@
+/* Cores */
+h1{
+    color: rgb(0, 0, 255); /* Red - Green - Blue */
+}
+
+h1{
+    color: rgba(0, 0, 255, 0.76); /* Red - Green - Blue - Opacidade */
+}
+
+
+p{
+    color: #ff0000; /* Código hexadecimal */
+}

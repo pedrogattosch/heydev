@@ -1,0 +1,5 @@
+/* Preenchimentos */
+div.heydev{
+    margin: 0px 5px 10px 15px ; /* Superior Direita Inferior Esquerda */
+    padding: 15px 10px 5px 0px ; /* Superior Direita Inferior Esquerda */
+}

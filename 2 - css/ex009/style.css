@@ -1,0 +1,14 @@
+/* Display */
+div{
+    display: block;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+ 
+span{
+display: inline;
+color: #ff0000;
+font-weight: bold;
+}
+  
